@@ -1,0 +1,6 @@
+ID;customer;product;orderDate;amount;currency
+1;Innovate Inc.;Pro Software License;2025-08-15;1500.00;USD
+2;Synergy Systems;Cloud Storage 1TB;2025-08-18;250.50;EUR
+3;Innovate Inc.;Consulting Services;2025-08-20;4500.00;USD
+4;Quantum Solutions;Hardware Maintenance;2025-08-21;850.75;GBP
+5;Synergy Systems;Pro Software License;2025-08-22;1500.00;EUR
