@@ -14,9 +14,7 @@ You can watch a short screen recording of the final application, demonstrating i
 
 This project was undertaken as a self-learning exercise to gain hands-on experience with modern, full-stack development within the SAP ecosystem, specifically targeting the skills required for a role focused on applying AI in enterprise software.
 
-Initially, this project was started using the **ABAP RESTful Application Programming (RAP)** model to build the backend service. However, due to persistent, unresolvable authorization issues within the SAP BTP trial environment, a strategic pivot was made.
-
-Instead of being blocked, I adapted by choosing to build the exact same application using the **SAP Cloud Application Programming Model (CAP)**. This journey demonstrates key problem-solving skills, resilience in the face of technical roadblocks, and the ability to quickly learn an alternative, strategic framework within the same ecosystem to achieve the project's objective.
+This project was originally architected with an ABAP RAP backend. However, a persistent authorization block in the trial environment made that approach unfeasible. To overcome this technical hurdle, I re-implemented the backend using the SAP Cloud Application Programming Model (CAP), successfully connecting it to the same Fiori front-end to complete the full-stack application.
 
 ---
 ## ✨ Key Features
